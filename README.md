@@ -1,26 +1,72 @@
-### Hi there 👋, My name is Shohanur Rahman
+## 👋 Hi, I'm Shohanur Rahman
+
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Full Stack Developer | MERN & Next.js Specialist
 
-Skills: REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Nextjs 
-- 📫 How to reach me: shohanur7@proton.me 
+I'm a passionate developer specializing in modern web development with hands-on experience in the **MERN stack** (MongoDB, Express, React, Node.js) and **Next.js**. I focus on building responsive, scalable, and user-friendly applications with clean, maintainable code.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/shohanur-abc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/blank/)  
+## 🚀 About Me
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+My name is **Shohanur Rahman**, and I'm a Full Stack Developer with a strong foundation in frontend development. I'm driven by the desire to build scalable web applications and continuously learn new technologies. I thrive in environments where I need to master new frameworks and tools, and I'm committed to staying updated with industry best practices.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/shohanur-abc)](https://github.com/ryo-ma/github-profile-trophy)
+- 🔭 **Currently working on:** Full-stack web applications and exploring advanced design patterns
+- 🌱 **Learning:** Next.js, performance optimization, accessibility standards, and emerging technologies
+- 💡 **Strengths:** Quick learner, problem-solver, attention to detail in UI/UX, and strong team collaborator
+- 📫 **Email:** shohanur7@proton.me
+- 🎯 **Goal:** To become a senior frontend developer or tech lead within 5 years, mentoring junior developers and contributing to high-impact projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/shohanur-abc&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/shohanur-abc/contributions?format=svg&private=true)  
+## 🛠️ Technical Skills
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/shohanur-abc)  
+**Frontend Technologies:**
+- React.js & Next.js
+- JavaScript (ES6+) & HTML/CSS
+- Responsive Design & UI/UX Implementation
+- State Management & Modern Development Practices
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/shohanur-abc)  
+**Backend Technologies:**
+- Node.js & Express.js
+- MongoDB & Database Design
+- RESTful API Development
 
+**Tools & Practices:**
+- Git & Version Control
+- ESLint, Prettier, and Code Quality Tools
+- Unit & Integration Testing
+- Agile Development Methodologies
+
+## 💼 Professional Approach
+
+### Quality Assurance
+I ensure quality through:
+- Writing clean, readable code with meaningful naming conventions
+- Comprehensive testing (unit, integration, and manual testing)
+- Code review processes and peer collaboration
+- Using linting tools and formatters for consistency
+- Continuous improvement through feedback
+
+### Problem-Solving
+When facing unfamiliar challenges:
+- I break down complex issues into manageable parts
+- Leverage available resources and developer community
+- Document my learning process to help others
+- View obstacles as opportunities to deepen knowledge
+
+### Growth Mindset
+- Setting clear, achievable goals and tracking progress
+- Learning one new concept/technology every month
+- Staying motivated through meaningful project outcomes
+- Active participation in the developer community
+
+## 📝 Key Takeaways
+
+- **Technical Excellence:** MERN stack and Next.js expertise with full-stack perspective
+- **User-Centric Approach:** Prioritize user experience alongside functionality
+- **Continuous Learner:** Active in open-source and staying connected with the developer community
+- **Team Player:** Strong communicator who values collaboration and peer growth
+
+---
+
+*Last Updated: January 2026*
